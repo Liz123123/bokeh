@@ -34,6 +34,6 @@ plot.circle_dot(x1, y1, size=20, color="purple", alpha=0.3)
 
 plot.hover.point_policy = "follow_mouse"
 
-mostrar = row(plot, column(años, cast))
+mostra = row(plot, column(años, cast))
 
 show(mostrar)
